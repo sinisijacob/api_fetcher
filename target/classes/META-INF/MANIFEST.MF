@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 19
+Class-Path: gson-2.8.8.jar
+Main-Class: api_fetcher.API_Fetcher
+Created-By: Maven Integration for Eclipse
+
